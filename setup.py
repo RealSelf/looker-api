@@ -11,5 +11,4 @@ setup(name="looker_api",
         'requests'
     ],
     packages=['looker_api'],
-    keywords = ['business intelligence', 'bi', 'looker']
-    zip_safe=False)
+    keywords = ['business intelligence', 'bi', 'looker'])
