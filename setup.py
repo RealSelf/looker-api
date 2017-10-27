@@ -1,14 +1,15 @@
 from setuptools import setup
 
-setup(name="looker-api",
+setup(name="looker_api",
     version=1.0,
-    description="SDK for the Realself Looker API",
-    url="https://looker.com",
+    description="Python wrapper for the Looker API",
+    url="https://github.com/nickymikail/looker-api",
     author="Nicholas Hassell",
-    author_email="nick.hassell@realself.com",
+    author_email="hasselln@gmail.com",
     license="MIT",
     install_requires=[
         'requests'
     ],
     packages=['looker_api'],
+    keywords = ['business intelligence', 'bi', 'looker']
     zip_safe=False)
