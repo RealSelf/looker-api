@@ -1,3 +1,4 @@
 .venv
 *.pyc
 dist/
+looker_api.egg-info/
