@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: looker-api
+Version: 1.0
+Summary: Python wrapper for the Looker API
+Home-page: https://github.com/nickymikail/looker-api
+Author: Nicholas Hassell
+Author-email: hasselln@gmail.com
+License: MIT
+Download-URL: https://github.com/nickymikail/looker-api/archive/1.0.tar.gz
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Keywords: business intelligence,bi,looker
+Platform: UNKNOWN
